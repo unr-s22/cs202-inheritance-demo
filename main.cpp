@@ -29,6 +29,7 @@ public:
 };
 
 int main() {
+    // Adding a comment
     MyCat mycat;
     mycat.speak();
     // Creating an animal class
