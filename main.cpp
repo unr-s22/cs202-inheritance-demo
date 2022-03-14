@@ -24,7 +24,7 @@ public:
 class MyCat : public Cat {
 public:
     void speak() {
-        std::cout << "I am Dr. K's cat" << std::endl; 
+        std::cout << "I am Dr. K's cat, don't you know" << std::endl; 
     }
 };
 
