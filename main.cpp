@@ -31,6 +31,7 @@ public:
 int main() {
     MyCat mycat;
     mycat.speak();
+    // Creating an animal class
     Animal* aCat = new MyCat();
     aCat -> speak();
     delete aCat;
