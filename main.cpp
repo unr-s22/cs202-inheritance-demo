@@ -32,7 +32,7 @@ int main() {
     // Adding a comment
     MyCat mycat;
     mycat.speak();
-    // Creating an animal class
+    // Creating an animal class that I wrote
     Animal* aCat = new MyCat();
     aCat -> speak();
     delete aCat;
