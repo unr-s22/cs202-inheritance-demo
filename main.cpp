@@ -4,7 +4,7 @@
 class Animal {
 public:
     virtual void speak(){
-        std::cout << "Animal speaking" << std::endl;
+        std::cout << "Animal is speaking" << std::endl;
     }
     virtual void sleep(){
         std::cout << "I am sleeping ...." << std::endl;
