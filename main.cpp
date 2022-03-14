@@ -17,7 +17,7 @@ public:
         std::cout << "Cat speaking" << std::endl;
     }
     void sleep() {
-        std::cout << "I am a sleeping cat!" << std::endl;
+        std::cout << "I am a sleeping cat?" << std::endl;
     }
 };
 
